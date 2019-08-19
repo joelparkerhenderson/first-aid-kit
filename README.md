@@ -22,7 +22,7 @@ Cold & flu:
 * [Contact](?): [Acetaminophen](https://en.wikipedia.org/wiki/Acetaminophen), [Chloropheniramin maleate](?), [Phenylephrine](https://en.wikipedia.org/wiki/Phenylephrine)
 
 Sleep:
-* [Sominex](?): [Diphenhydramine](https://en.wikipedia.org/wiki/Diphenhydramine
+* [Sominex](https://en.wikipedia.org/wiki/Sominex): [Diphenhydramine](https://en.wikipedia.org/wiki/Diphenhydramine)
 
 Other:
 * [Alka-Seltzer](https://en.wikipedia.org/wiki/Alka-Seltzer) (antacid)
