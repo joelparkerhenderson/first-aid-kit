@@ -10,7 +10,7 @@ Pain:
 * [Advil PM](https://en.wikipedia.org/wiki/Advil): [Ibuprofen](https://en.wikipedia.org/wiki/Ibuprofen), [Diphenhydramine](https://en.wikipedia.org/wiki/Diphenhydramine)
 * [Aleve](https://en.wikipedia.org/wiki/Aleve): [Naproxen](https://en.wikipedia.org/wiki/Naproxen) nonsteroidal anti-inflammatory drug
 * [Bayer](https://en.wikipedia.org/wiki/Bayer): [Aspirin](https://en.wikipedia.org/wiki/Aspirin)
-* [Excedrin](?): [Acetaminophen](https://en.wikipedia.org/wiki/Acetaminophen), [Aspirin](https://en.wikipedia.org/wiki/Aspirin), [Caffeine](https://en.wikipedia.org/wiki/Caffeine) (stimulant), [Pyrilamine maleate](https://en.wikipedia.org/wiki/Pyrilamine_maleate) (antihistamine)
+* [Excedrin](https://en.wikipedia.org/wiki/Excedrin_(brand)): [Acetaminophen](https://en.wikipedia.org/wiki/Acetaminophen), [Aspirin](https://en.wikipedia.org/wiki/Aspirin), [Caffeine](https://en.wikipedia.org/wiki/Caffeine) (stimulant), [Pyrilamine maleate](https://en.wikipedia.org/wiki/Pyrilamine_maleate) (antihistamine)
 * [Midol Complete](https://en.wikipedia.org/wiki/Midol): [Acetaminophen](https://en.wikipedia.org/wiki/Acetaminophen) (pain reliever), [Caffeine](https://en.wikipedia.org/wiki/Caffeine) (stimulant), [Pyrilamine maleate](https://en.wikipedia.org/wiki/Pyrilamine_maleate) (antihistamine)
 * [Motrin](https://en.wikipedia.org/wiki/Motrin): [Ibuprofen](https://en.wikipedia.org/wiki/Ibuprofen)
 * [Tylenol](https://en.wikipedia.org/wiki/Tylenol_(brand)): [Acetaminophen](https://en.wikipedia.org/wiki/Acetaminophen)
