@@ -30,3 +30,17 @@ Other:
 * [Pepto-Bismol](https://wikipedia.org/wiki/Pepto-Bismol): [Bismuth subsalicylate](https://wikipedia.org/wiki/Bismuth_subsalicylate) (antacid)
 * [Zantac](https://wikipedia.org/wiki/Zantac): [Ranitidine](https://wikipedia.org/wiki/Ranitidine) (heartburn)
 * [Loperamide](https://wikipedia.org/wiki/Loperamide) (anti-diarrheal)
+* Activate Charcoal binder
+
+Supplements:
+* Multivitamin
+* Greens
+* Vitamin B12
+* Vitamin C
+* Vitamin D
+* Omega 3
+* Diamine oxidase (DAO) histamine reducer
+* Quercetin
+* Glucothione Reduced
+* Garlic
+* Turmeric
